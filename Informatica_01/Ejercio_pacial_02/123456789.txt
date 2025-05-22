@@ -1,0 +1,5 @@
+ID: 123456789
+Nombre: Pedro Perez
+Edad: 18
+Carrera: Sistemas
+Nota: 4

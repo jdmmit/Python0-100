@@ -1,0 +1,2 @@
+71399932,Juan David Murillo Mejia,42,4.9
+123456789,Pedro Perez,18,4
